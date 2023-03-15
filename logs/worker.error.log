@@ -1,0 +1,26 @@
+/home/stains/frappe-business/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+/home/stains/frappe-business/apps/frappe/frappe/utils/caching.py:57: DeprecationWarning: `frappe_last` argument is deprecated and will be removed in v15.
+  return_val = func(*args, **kwargs)
+/home/stains/frappe-business/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/home/stains/frappe-business/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/home/stains/frappe-business/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/home/stains/frappe-business/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/home/stains/frappe-business/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/home/stains/frappe-business/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/home/stains/frappe-business/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/home/stains/frappe-business/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/home/stains/frappe-business/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/home/stains/frappe-business/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/home/stains/frappe-business/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
