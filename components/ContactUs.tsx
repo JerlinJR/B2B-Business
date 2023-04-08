@@ -95,7 +95,7 @@ export const ContactUs = () => {
                     <p className="mt-0">
                       Reach out to me using the form below.
                     </p>
-                    <FormGroup className={classnames('mt-5', {})}>
+                    <FormGroup data-netlify="true" className={classnames('mt-5', {})}>
                       <InputGroup className="input-group-alternative">
                         <InputGroupAddon addonType="prepend">
                           <InputGroupText>
@@ -123,7 +123,7 @@ export const ContactUs = () => {
                         />
                       </InputGroup>
                     </FormGroup>
-                    <FormGroup className="mb-4">
+                    <FormGroup data-netlify="true" className="mb-4">
                       <Input
                         className="form-control-alternative"
                         cols="80"
