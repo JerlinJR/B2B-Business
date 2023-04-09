@@ -259,7 +259,7 @@ export const educationInfo: EducationType[] = [
     subHeader: 'Bachelor of Technology in Computer Science Engineering',
     duration: '2020 - 2024 (Expected)',
     desc: 'Make sense with common sense',
-    grade: 'GPA: Not Cared About',
+    grade: 'GPA: !Cared About',
     descBullets: [
       'No exceptation unless and untill you see the college curiculum',
       'Teach yourself to SelfLearn',
