@@ -318,6 +318,7 @@ export const projects: ProjectType[] = [
     name: 'Social Media App - In Dev',
     desc: 'A Scalable WebApp using PHP.',
     github: 'https://github.com/JerlinJR/Social-Media',
+    link: 'https://app.jerlin.space',
   },
   {
     name: 'Portfolio',
